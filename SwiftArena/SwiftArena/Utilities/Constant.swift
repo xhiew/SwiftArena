@@ -8,5 +8,7 @@
 import Foundation
 
 struct Constant {
-    
+    static let heroMinLevel: Int = 1
+    static let heroMaxLevel: Int = 15
+    static let defaultGold: Int = 200
 }
